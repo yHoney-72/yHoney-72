@@ -6,20 +6,13 @@
 
 ## 🌐 Connect With Me
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/yhoney/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:honey4444hv@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/yhoney/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="mailto:honey4444hv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
 <h2>💻 Tech Stack & Competencies</h2>
