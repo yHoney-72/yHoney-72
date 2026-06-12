@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1800&color=2563EB&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Passionate+about+Scalable+System+Design;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/yHoney-72">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h3> 📬 Connect wiht me </h3>
   <a href="https://www.linkedin.com/in/yhoney/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
