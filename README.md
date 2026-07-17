@@ -17,7 +17,7 @@
 
 Backend Engineer passionate about building scalable, reliable, and production-ready systems. I enjoy solving backend challenges, designing clean architectures, and continuously learning how large-scale applications work behind the scenes.
 
-> *Don't just write code — engineer systems that scale.*
+*Don't just write code — engineer systems that scale.*
 
 <br>
 
@@ -112,24 +112,28 @@ Content moderation system with Redis-based concurrency control, virality scoring
 ### 📈 Contribution Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yHoney-72&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=yHoney-72&show_icons=true&theme=cobalt&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=yHoney-72&show_icons=true&theme=cobalt&hide_border=false&count_private=true&cache_seconds=1800)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔥 Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yHoney-72&theme=cobalt&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yHoney-72&theme=cobalt&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yHoney-72&layout=compact&theme=cobalt&hide_border=false&langs_count=8)
-
-### ⏰ Coding Activity
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yHoney-72&theme=github_dark&utcOffset=5.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yHoney-72&layout=compact&theme=cobalt&hide_border=false&langs_count=8&cache_seconds=1800)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### ⏰ Coding Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yHoney-72&theme=github_dark&utcOffset=5.5" width="65%"/>
+
+</div>
 
 ---
 
@@ -147,8 +151,28 @@ Content moderation system with Redis-based concurrency control, virality scoring
 
 ### 💡 *Don't just write code — engineer systems that scale.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yHoney-72&color=2563EB&style=flat-square)
+<br>
+
+<a href="https://www.linkedin.com/in/yhoney/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="mailto:honey4444hc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yHoney-72">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yHoney-72&color=2563EB&style=for-the-badge)
+
+
+
+
+
+<sub>Thanks for stopping by — feel free to explore my repos and connect! 👋</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
