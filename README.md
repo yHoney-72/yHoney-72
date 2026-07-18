@@ -149,21 +149,7 @@ Content moderation system with Redis-based concurrency control, virality scoring
 
 <div align="center">
 
-### 💡 *Don't just write code — engineer systems that scale.*
 
-<br>
-
-<a href="https://www.linkedin.com/in/yhoney/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="mailto:honey4444hc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yHoney-72">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yHoney-72&color=2563EB&style=for-the-badge)
 
