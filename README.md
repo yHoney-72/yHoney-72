@@ -141,7 +141,7 @@ Content moderation system with Redis-based concurrency control, virality scoring
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yHoney-72?theme=dark&font=JetBrains%20Mono&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yHoney?theme=dark&font=JetBrains%20Mono&ext=contest)
 
 </div>
 
